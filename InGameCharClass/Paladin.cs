@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RPGCharCreator.InGameCharClass
 {
-    class Paladin
+    class Paladin : BaseCharacter
     {
     }
 }
